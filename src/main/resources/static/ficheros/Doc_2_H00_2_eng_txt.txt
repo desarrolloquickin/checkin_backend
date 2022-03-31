@@ -1,0 +1,40 @@
+﻿[Color=Black][TextSize=20][u][b]
+CUSTOMER ACCEPTANCE OF RESPONSIBILITY[/b][/u][/TextSize]
+
+[b]$HOTEL$[/b]
+
+Mr/Ms $N1$, $A1$ $A2$, 
+with national ID number/passport number  $NUM$ 
+and address at $DOMI$  $POB$ - $PROV$    (hereinafter, the CUSTOMER), 
+a customer of the $HOTEL$  Hotel located at $HDOMI$ (hereinafter, the HOTEL), 
+with a hotel booking for the dates from  to $FE$ of $FS$, DECLARES:
+
+1.- The Balearic Islands, like the rest of the world, have suffered the effects of the COVID-19 pandemic. Thanks to the actions taken by the public health authorities, the pandemic has been contained and the Balearic Islands have recorded favourable epidemiological data. After the end of the lockdown, this has allowed the approval of the Exceptional Preventative Measures Plan (hereinafter, the “New Normal Plan"), through the Royal Decree "for the New Normal" (RDL 21/2020 of June 9 - Official State Gazette of June 10, 2020. 
+You can see the content of the Royal Decree on the website:  https://www.boe.es/eli/es/rdl/2020/06/09/21/dof/spa/pdf (Official State Gazette-A-2020-5895), although below is a summary of the most important measures it includes:
+
+? Mandatory use of a mask for people aged over 6 on public roads, closed public spaces or open spaces in which it is not possible to respect social distancing. Masks are also mandatory for cultural and sporting events held indoors and in shops. 
+? Respect social distancing (at least one and a half metres away from other people)
+
+2.- The New Normal Plan requires the implementation of certain prevention and health and safety measures to avoid the risk of infection for hotels and tourist accommodation to reopen and provide services. The CUSTOMER has been informed about these measures before confirming their booking and/or on arrival at the HOTEL. 
+
+The CUSTOMER is informed of and receives hereby, a copy https://qr.amresortseu.com/wp-content/uploads/2020/07/H00_MedidasCovid.pdf of the Health and Safety Protocol for the prevention of COVID-19 approved by AMResorts (the “AMResorts Protocol"). The CUSTOMER must be aware of and comply with said Protocol and the New Normal Plan (hereinafter, the"Applicable Regulations”). 
+
+3.- The CUSTOMER agrees to comply with the prevention and health and safety measures and to use all mandatory or recommended items during their stay at the HOTEL under the Applicable Regulations, and assumes all the consequences of any non-compliance. 
+
+4.- The Applicable Regulations are the basis for the preparation of the AMResorts Protocol and the internal HOTEL regulations. As a consequence, if there is any non-compliance, under the Applicable Regulations and the Rights of Admission, the HOTEL reserves the right to require the CUSTOMER to comply with the Applicable Regulations and, if there is repeated non-compliance, bring the matter to the attention of the competent authority. 
+
+5.- In addition, the CUSTOMER is aware of the risks of staying in a hotel in the current general context of the health crisis caused by COVID-19. As it is the CUSTOMER's wish to stay at the HOTEL, the CUSTOMER assumes all such risks and, by virtue of the Applicable Regulations of which the CUSTOMER has been informed, exonerates the HOTEL from any civil liability derived from any damages that may be suffered due to incidents that occur in the HOTEL as a consequence of the pandemic. 
+
+I have read, understood and agree to all of the above. 
+
+Name: $N1$, $A1$ $A2$
+Room: $HAB$
+
+
+$HOY$
+[/Color]
+                                                                       [img dir="C:\quicksign" FileName="firma1.png" width=80 height=80/] 
+[END PAGE]
+
+
+

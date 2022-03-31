@@ -1,0 +1,41 @@
+﻿[Color=Black][TextSize=20][u][b]
+ÜBERNAHME VON VERANTWORTUNG DURCH DEN KUNDEN[/b][/u][/TextSize]
+
+[b]$HOTEL$[/b] 
+
+Herr/Frau $N1$, $A1$ $A2$, 
+mit der nationalen ID-Nummer/Reisepassnummer $NUM$ 
+und der Adresse $DOMI$  $POB$ - $PROV$ (im Folgenden der GAST), 
+ein Kunde des Hotels $HOTEL$ mit Sitz in $HDOMI$ (im Folgenden das HOTEL), 
+mit einer Hotelbuchung für den $FE$ bis zum $FS$, ERKLÄRT:
+
+1. - Die Balearen haben, wie der Rest der Welt, unter den Auswirkungen der COVID-19-Pandemie gelitten. Dank der von den Gesundheitsbehörden ergriffenen Maßnahmen konnte die Pandemie eingedämmt werden, und die Balearischen Inseln haben günstige epidemiologische Daten verzeichnet. Nach dem Ende des Lockdowns hat dies die Genehmigung des Plans für außerordentliche Präventivmaßnahmen (im Folgenden der "Plan Neue Normalität") durch den Königlichen Erlass "für die Neue Normalität" (RDL 21/2020 vom 9. Juni - Staatsanzeiger vom 10. Juni 2020) ermöglicht. 
+Den Inhalt des Königlichen Erlasses können Sie auf folgender Website einsehen:  https://www.boe.es/eli/es/rdl/2020/06/09/21/dof/spa/pdf (Staatsanzeiger-A-2020-5895), obwohl im Folgenden eine Zusammenfassung der wichtigsten darin enthaltenen Maßnahmen gegeben wird:
+
+? Obligatorische Verwendung einer Maske für Personen über 6 Jahren auf öffentlichen Straßen, geschlossenen öffentlichen Plätzen oder Freiflächen, wo es nicht möglich ist, die soziale Distanzierung zu respektieren. Masken sind auch bei Kultur- und Sportveranstaltungen in Innenbereichen sowie in Geschäften obligatorisch. 
+? Respektieren der sozialen Distanzierung (mindestens 1,5 m Abstand zu anderen Personen)
+
+2.- Der Plan Neue Normalität erfordert die Umsetzung bestimmter Präventions-, Gesundheits- und Sicherheitsmaßnahmen zur Vermeidung des Infektionsrisikos, damit Hotels und Touristenunterkünfte wieder öffnen und Dienstleistungen anbieten können. Der GAST wurde vor der Bestätigung seiner Buchung und/oder bei seiner Ankunft im HOTEL über diese Maßnahmen informiert. 
+
+Der GAST wird über das von AMResorts genehmigte Gesundheits- und Sicherheitsprotokoll zur Prävention von COVID-19 (das "AMResorts-Protokoll") informiert und erhält hiermit eine Kopie https://qr.amresortseu.com/wp-content/uploads/2020/07/H00_MedidasCovid.pdf dieses Protokolls. Der GAST muss dieses Protokoll und den Plan Neue Normalität (nachstehend die "Anwendbaren Bestimmungen") kennen und einhalten. 
+
+3.- Der GAST erklärt sich bereit, die Präventions-, Gesundheits- und Sicherheitsmaßnahmen zu befolgen und während seines Aufenthalts im HOTEL gemäß den anwendbaren Bestimmungen alle obligatorischen oder empfohlenen Artikel zu verwenden, und übernimmt alle Folgen einer Nichteinhaltung. 
+
+4.- Die Anwendbaren Bestimmungen bilden die Grundlage für die Ausarbeitung des AMResorts-Protokolls und der internen HOTEL-Bestimmungen. Folglich behält sich das HOTEL das Recht vor, im Falle einer Nichteinhaltung der Anwendbaren Bestimmungen und der Zulassungsrechte vom GAST die Einhaltung der anwendbaren Bestimmungen zu verlangen und im Falle einer wiederholten Nichteinhaltung die Angelegenheit der zuständigen Behörde zur Kenntnis zu bringen. 
+
+5.- Darüber hinaus ist sich der GAST der Risiken eines Hotelaufenthalts im aktuellen allgemeinen Kontext der durch COVID-19 verursachten Gesundheitskrise bewusst. Da es der Wunsch des GASTES ist, im HOTEL zu übernachten, übernimmt der GAST all diese Risiken und befreit das HOTEL gemäß der Anwendbaren Bestimmungen, über die der GAST informiert wurde, von jeglicher zivilrechtlicher Haftung für Schäden, die aufgrund von Vorfällen entstehen, die sich im HOTEL als Folge der Pandemie ereignen. 
+
+Ich habe alle oben genannten Punkte gelesen und verstanden und stimme ihnen zu. 
+
+Name: $N1$, $A1$ $A2$
+Zimmer: $HAB$ 
+
+
+$HOY$
+
+
+[/Color]
+
+                                                                         [img dir="C:\quicksign" FileName="firma1.png" width=80 height=80/]
+[END PAGE]
+

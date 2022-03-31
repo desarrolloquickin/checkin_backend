@@ -1,0 +1,39 @@
+﻿[Color=Black][TextSize=20][u][b]
+ACCEPTATION DE LA RESPONSABILITÉ DU CLIENT[/b][/u][/TextSize]
+
+[b]$HOTEL$[/b]
+
+Monsieur/Madame $N1$, $A1$ $A2$       , 
+titulaire d'une carte d'identité nationale/numéro de passeport   $NUM$     
+et domicilié à $DOMI$  $POB$ - $PROV$   
+(ci-après, le CLIENT), client de l'hôtel $HOTEL$             situé à  $HDOMI$ (ci-après, l'HÔTEL), avec une réservation d'hôtel pour les 
+dates du $FE$ au  $FS$ , DÉCLARE :
+
+1.- Les îles Baléares, comme le reste du monde, ont subi les effets de la pandémie COVID-19. Grâce aux mesures prises par les autorités de santé publique, la pandémie a été contenue et les îles Baléares ont enregistré des données épidémiologiques favorables. Après la fin du confinement, cela a permis l'approbation du Plan de Mesures Préventives Exceptionnelles (ci-après, le « Plan de la Nouvelle Normalité »), par le biais du Décret Royal « pour la Nouvelle Normalité » (RDL 21/2020 du 9 juin - Journal Officiel de l'Etat du 10 juin 2020. 
+Vous pouvez voir le contenu de l'arrêté royal sur le site web :  https://www.boe.es/eli/es/rdl/2020/06/09/21/dof/spa/pdf (Journal officiel de l'État - A-2020-5895), mais voici un résumé des mesures les plus importantes qu'il contient :
+
+? Utilisation obligatoire d'un masque pour les personnes âgées de plus de 6 ans sur la voie publique, les espaces publics fermés ou les espaces ouverts dans lesquels il n'est pas possible de respecter la distance sociale. Les masques sont également obligatoires pour les manifestations culturelles et sportives qui se déroulent à l'intérieur et dans les magasins. 
+? Respecter la distance sociale (au moins un mètre et demi de distance par rapport aux autres personnes)
+
+2.- Le nouveau plan normal exige la mise en œuvre de certaines mesures de prévention et de santé et sécurité afin d'éviter le risque d'infection pour la réouverture et la prestation de services des hôtels et des hébergements touristiques. Le CLIENT a été informé de ces mesures avant de confirmer sa réservation et/ou à son arrivée à l'HÔTEL. 
+
+Le CLIENT est informé et reçoit par la présente, une copie https://qr.amresortseu.com/wp-content/uploads/2020/07/H00_MedidasCovid.pdf du Protocole de prévention de la COVID-19 approuvé par AMResorts (le « Protocole AMResorts »). Le CLIENT doit connaître et respecter ledit Protocole et le Plan de la nouvelle normalité (ci-après, le « Règlement applicable »). 
+
+3.- Le CLIENT s'engage à respecter les mesures de prévention, de santé et de sécurité et à utiliser tous les articles obligatoires ou recommandés pendant son séjour à l'HÔTEL conformément à la réglementation applicable, et assume toutes les conséquences de tout manquement. 
+
+4.- Les règlements applicables constituent la base de la préparation du protocole AM Resorts et du règlement interne de l'HÔTEL. En conséquence, en cas de non-respect de la réglementation applicable et des droits d'admission, l'HÔTEL se réserve le droit d'exiger du CLIENT qu'il se conforme à la réglementation applicable et, en cas de non-respect répété, de porter la question à l'attention de l'autorité compétente. 
+
+5.- En outre, le CLIENT est conscient des risques liés au séjour dans un hôtel dans le contexte général actuel de la crise sanitaire provoquée par la COVID-19. Étant donné que le CLIENT souhaite séjourner à l'HÔTEL, il assume tous ces risques et, en vertu du Règlement Applicable dont il a été informé, il exonère l'HÔTEL de toute responsabilité civile découlant de tout dommage qui pourrait être subi en raison d'incidents survenus dans l'HÔTEL suite à la pandémie. 
+
+J'ai lu, compris et accepté tout ce qui précède. 
+
+Nom : $N1$, $A1$ $A2$
+
+Chambre : $HAB$ 
+ 
+
+$HOY$
+
+[/Color]
+                                                                             [img dir="C:\quicksign" FileName="firma1.png" width=80 height=80/]
+[END PAGE]

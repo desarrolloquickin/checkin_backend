@@ -1,0 +1,39 @@
+﻿[Color=Black][TextSize=20][u][b]
+Bienvenidos[/b][/u][/TextSize]
+
+Fecha Entrada			Fecha Salida 			Tipo 		Hab.		 Régimen			Reserva
+$FE$				$FS$         		$T$             $HAB$      	$R$				$RESERVA$
+
+_______________________________________________________________________________________________________________________________________
+
+
+Nombre                                                                Apellido                                               Apellido 2
+$N1$                                                     $A1$                                     $A2$
+
+Nacionalidad                                       Tipo                     		    Documento      	            Expedicion
+$NAC$                                 $TDOC$                      $NUM$                    $FEX$
+
+Fecha Nacimiento                                   Sexo                                                                         Mail
+$FN$                                   $SEXO$                                                     $EMAIL$
+
+Dirección                                                             Codigo Postal   		                Población 	               Provincia
+$DOMI$                                 $POSTAL$                    $POB$                $PROV$
+
+Pais                                           	   Teléfono Móvil
+$NAC$                                   $MOVIL$                                                            [/Color]
+                                                                                                           
+
+                                                                                     
+                                                                                [img dir="C:\quicksign" FileName="firma1.png" width=80 height=80/]
+
+
+
+
+
+
+
+
+
+
+
+[END PAGE]

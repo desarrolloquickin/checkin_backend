@@ -1,0 +1,40 @@
+﻿
+[Color=Black][TextSize=20][u][b]
+DECLARACIÓN RESPONSABLE DEL CLIENTE[/b][/u][/TextSize]
+
+[b]$HOTEL$[/b]
+
+D./Dña.$N1$, $A1$ $A2$, 
+con DNI/Pasaporte Núm. $NUM$ , 
+domicilio $DOMI$  $POB$ - $PROV$  (en adelante, el CLIENTE), 
+cliente del Hotel $HOTEL$, sito en $HDOMI$ (en adelante, el HOTEL), 
+con estancia reservada del día $FE$ al día $FS$, DECLARO:
+
+1.- Las Islas Baleares, igual que le resto del mundo, han sufrido los efectos de la pandemia del COVID-19 si bien, gracias a la gestión sanitaria realizada por las Administraciones públicas, ha sido contenida y, por ello, actualmente nuestro destino cuenta con unos datos epidemiológicos favorables que han permitido, una vez superadas las fases de confinamiento,  la aprobación del Plan de Medidas Excepcionales de Prevención (en adelante, el “Plan de la Nueva Normalidad”), a través del Real Decreto-ley "para la Nueva Normalidad" (RDL 21/2020, de 9 de junio- BOE de 10 de junio de 2020. 
+Usted podrá consultar el contenido del mismo, en el sitio web:  https://www.boe.es/eli/es/rdl/2020/06/09/21/dof/spa/pdf (BOE-A-2020-5895), si bien, a continuación le recordamos las medidas de comportamiento más destacadas que figuran en el mismo:
+
+> Uso de mascarilla obligatorio para mayores de 6 años en la vía pública, espacios cerrados de uso al público o que se encuentre abierto al público siempre que no sea posible mantener la distancia de seguridad; también es obligatorio en los espectáculos culturales y deportivos que se lleven a cabo en el interior de lugares cerrados, así como en los establecimientos comerciales. 
+> Mantener la distancia mínima interpersonal (como mínimo un metro y medio)
+
+2.- El Plan de la Nueva Normalidad exige la aplicación de determinadas medidas de prevención e higiene para la apertura y prestación de servicios en hoteles y alojamientos turísticos para evitar posibles riesgos de contagio, de las que el CLIENTE ha sido informado antes de la confirmación de la reserva y/o a su llegada al HOTEL. 
+
+Mediante el presente se informa y hace entrega de un ejemplar https://qr.amresortseu.com/wp-content/uploads/2020/07/H00_MedidasCovid.pdf del Protocolo de seguridad e higiene para prevención contra el COVID-19 aprobado por AMResorts (el “Protocolo AMResorts”), el cual, junto con el Plan de la Nueva Normalidad el CLIENTE debe conocer y cumplir (en adelante, la “Normativa Aplicable”). 
+
+3.- El CLIENTE se compromete al cumplimiento de las medidas de prevención e higiene, así como al uso de los medios obligatorios o recomendados durante su estancia en el HOTEL, en virtud de la Normativa Aplicable y asume la totalidad de las consecuencias de su incumplimiento. 
+
+4.- La Normativa Aplicable ha servido de base para la elaboración del Protocolo AMResorts y reglamento de régimen interior del HOTEL. En consecuencia, en caso de incumplimiento, y al amparo de la Normativa Aplicable y el Derecho de Admisión, el HOTEL se reserva el derecho a exigir al CLIENTE el cumplimiento de la Normativa Aplicable y, en caso de incumplimiento reiterado de la misma por este, poner dichos hechos en conocimiento de la autoridad competente. 
+
+5.- Además, el CLIENTE conoce los riesgos que puede conllevar alojarse en un establecimiento hotelero en el actual contexto general y estado de la crisis sanitaria por el COVID-19. Por tanto, siendo la voluntad del CLIENTE alojarse en el HOTEL, asume dichos riesgos y, en virtud de la Normativa Aplicable de la que ha sido informado, exonera al HOTEL de cualquier responsabilidad civil derivada de los daños que pudiera sufrir por incidentes acaecidos en el HOTEL como consecuencia de la pandemia. 
+
+He leído, entendido y estoy de acuerdo con todo lo anterior. 
+
+Nombre:  $N1$, $A1$ $A2$
+Habitación: $HAB$
+
+
+$HOY$
+[/Color]
+
+                                                                                           [img dir="C:\quicksign" FileName="firma1.png" width=80 height=80/]
+[END PAGE]		
+

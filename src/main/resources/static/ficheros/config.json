@@ -1,0 +1,25 @@
+{
+  "hotels": [
+    {
+      "id": "H01",
+      "title": "HOTEL MALLORCA RESORT",
+      "docs": ["rpgd","covid","vandal"]
+    },
+    {
+      "id": "H06",
+      "title": "PARQUE SAN ANTONIO",
+      "docs": ["rpgd","covid"]
+    },
+	{
+      "id": "H20",
+      "title": "HOTEL VILLAGE",
+      "docs": ["Doc_1_H20_1_","Doc_2_H00_2_","policia_"]
+    },
+	{
+      "id": "H22",
+      "title": "HOTEL BAHIA REAL",
+      "docs": ["Doc_1_H22_1_","Doc_2_H00_2_","policia_"]
+    }
+  ]
+  
+}
